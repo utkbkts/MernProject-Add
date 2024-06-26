@@ -1,4 +1,3 @@
 
 
-https://github.com/utkbkts/MernProject-Add/assets/126083466/5fb05a1d-6e58-4655-8973-5893af0b324b
-
+![Ekran görüntüsü 2024-06-26 200639](https://github.com/utkbkts/MernProject-Add/assets/126083466/74114063-5d61-4e2f-a799-3c881beedbc0)
